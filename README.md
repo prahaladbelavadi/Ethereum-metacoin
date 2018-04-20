@@ -1,0 +1,2 @@
+# Ethereum-metacoin
+testing metacoin
